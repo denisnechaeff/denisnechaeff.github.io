@@ -4,7 +4,7 @@
 	<!-- <include url="skin/defaultskin.xml" /> -->
 
 	<!-- view settings -->
-	<view hlookatmin="-177" hlookatmax="-21" hlookat="-50" maxpixelzoom="1.0" fovmin="150" fovmax="150" limitview="range"/>
+	<view hlookatmin="-175" hlookatmax="-37" hlookat="-50" maxpixelzoom="1.0" fovmin="150" fovmax="150" limitview="range"/>
 
 	<!-- startup control -->
 	<control fovspeed="0">

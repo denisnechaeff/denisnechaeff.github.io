@@ -1,0 +1,21 @@
+﻿<krpano>
+
+	<!-- the skin -->
+	<!-- <include url="skin/defaultskin.xml" /> -->
+
+	<!-- view settings -->
+	<view hlookatmin="-175" hlookatmax="-2" hlookat="-50" maxpixelzoom="1.0" fovmin="150" fovmax="150" limitview="range"/>
+
+	<!-- startup control -->
+	<control fovspeed="0">
+	</control>
+
+	<autorotate enabled="true" waittime="1.5" speed="2.0"/>
+
+	<preview url="pano_03_preview.jpg" />
+
+	<image>
+		<cylinder url="pano_03.jpg" />
+	</image>
+
+</krpano>

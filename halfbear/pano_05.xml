@@ -4,7 +4,7 @@
 	<!-- <include url="skin/defaultskin.xml" /> -->
 
 	<!-- view settings -->
-	<view hlookatmin="-159" hlookatmax="59" hlookat="-50" maxpixelzoom="1.0" fovmin="150" fovmax="150" limitview="range"/>
+	<view hlookatmin="-179" hlookatmax="-8" hlookat="50" maxpixelzoom="1.0" fovmin="150" fovmax="150" limitview="range"/>
 
 	<!-- startup control -->
 	<control fovspeed="0">
@@ -12,10 +12,10 @@
 
 	<autorotate enabled="true" waittime="1.5" speed="2.0"/>
 
-	<preview url="pano_01_preview.jpg" />
+	<preview url="pano_05_preview.jpg" />
 
 	<image>
-		<cylinder url="pano_01.jpg" />
+		<cylinder url="pano_05.jpg" />
 	</image>
 
 </krpano>
